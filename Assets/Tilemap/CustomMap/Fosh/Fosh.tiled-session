@@ -1,0 +1,53 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        ":/automap-tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "M:/../../../Maps/Fir/tiled_tilesets/32x32_PixelWeapons_Free(1).tsx": {
+            "scaleInDock": 1
+        },
+        "TiledMap Editor New/Fosh.tmx": {
+            "scale": 4,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1222.875,
+                "y": 1221.5
+            }
+        },
+        "TiledMap Editor New/Tilesets/atlas-props-sprites.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.25
+        },
+        "TiledMap Editor New/Tilesets/atlas-props.tsx": {
+            "dynamicWrapping": false
+        },
+        "TiledMap Editor New/test.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 219.75,
+                "y": 197
+            }
+        }
+    },
+    "last.exportedFilePath": "M:/Maps/Fosh/TiledMap Editor New",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "mapScene.enableWorlds": true,
+    "openFiles": [
+    ],
+    "project": "Fosh.tiled-project",
+    "recentFiles": [
+        "TiledMap Editor New/Fosh.tmx",
+        "TiledMap Editor New/test.tmx"
+    ]
+}
